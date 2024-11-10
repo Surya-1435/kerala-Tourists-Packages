@@ -83,7 +83,7 @@ How to Run the Project
 
 1. Clone the repository:
 
-git clone https://github.com/Surya-1435/kerala-tourist-packages.git
+git clone https://github.com/Surya-1435/kerala-Tourists-Packages.git
 
 
 2. Open the index.html file in any web browser to view the site.
