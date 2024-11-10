@@ -46,9 +46,9 @@ The card design highlights essential package details such as price, duration, an
 A footer section with contact details, including phone numbers, email, and the physical address for inquiries or bookings.
 
 The footer is clean and professional, with easy-to-read contact information and social media placeholders.
-![Screenshot (6)](https://github.com/user-attachments/assets/dcd3845c-45ab-4236-bb5f-454b4a7dcb78)
-![Screenshot (5)](https://github.com/user-attachments/assets/402d3d6d-59db-45bd-98d9-a06ef465a167)
 ![Screenshot (4)](https://github.com/user-attachments/assets/0b71d763-13f8-473d-bf0e-d401bd89c599)
+![Screenshot (5)](https://github.com/user-attachments/assets/402d3d6d-59db-45bd-98d9-a06ef465a167)
+![Screenshot (6)](https://github.com/user-attachments/assets/dcd3845c-45ab-4236-bb5f-454b4a7dcb78)
 
 7. User-Friendly Design:
 
